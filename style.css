@@ -1,0 +1,45 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  #value {
+    font-size: 72px;
+    display: block;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #eee;
+    cursor: pointer;
+  }
+  
+  .decrease {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .increase {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .reset {
+    background-color: #2196f3;
+    color: white;
+  }
+  
+  .decrease:hover, .increase:hover, .reset:hover {
+    background-color: #ccc;
+  }
+  
